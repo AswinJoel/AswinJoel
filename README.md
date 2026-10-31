@@ -43,19 +43,7 @@
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AswinJoel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8DB8E5&text_color=C9D1D9&icon_color=8DB8E5&rank_icon=github" alt="Aswin Joel's GitHub statistics">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinJoel&layout=compact&hide_border=true&bg_color=0D1117&title_color=8DB8E5&text_color=C9D1D9" alt="Most used programming languages">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinJoel&bg_color=0D1117&color=C9D1D9&line=527DA8&point=8DB8E5&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph">
-
-</div>
-
----
 
 ## 🙋‍♂️ About Me
 
